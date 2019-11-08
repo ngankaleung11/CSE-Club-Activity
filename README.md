@@ -2,6 +2,8 @@
 
 My name is Tony, and I am intrested in doing Android app dev.
 
+Hello!
+
 My name is Divya, and I am interested in doing Software Development.
 
 Hi my name is Adolina and I'm interested in joining the Android app dev.
