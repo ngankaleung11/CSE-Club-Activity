@@ -8,6 +8,6 @@ My name is Ming, and I am intrested in 8K video encoding and decoding in C or C+
 
 My name is Rebecca, and I am starting CS 115 in winter.
 
-
 My name is Joshua, and I am studying JS these days.
 
+My name is Divya, and I am interested in doing software development
